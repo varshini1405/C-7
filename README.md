@@ -1,6 +1,5 @@
-# C_7
+# C-8
 MAX ELEMENT IN ARRAY
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() 
