@@ -1,4 +1,4 @@
-# C_7
+# C-7
 MAX ELEMENT IN ARRAY
 #include <stdio.h>
 
